@@ -1,0 +1,17 @@
+*.tlog
+*.lastbuildstate
+*.log
+*.exe
+*.manifest
+*.res
+*.ilk
+*.idb
+*.pdb
+*.obj
+*.rc
+*.cache
+*.pump
+*.suo
+*.sdf
+*.opensdf
+ipch/
